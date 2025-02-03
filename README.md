@@ -1,4 +1,3 @@
-# EvSSC:Event-aided Semantic Scene Completion
 <p align="center">
 
   <h1 align="center">EvSSC:Event-aided Semantic Scene Completion</h1>
