@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h1 align="center">EvSSC:Event-aided Semantic Scene Completion</h1>
+  <h1 align="center">EvSSC: Event-aided Semantic Scene Completion</h1>
   <p align="center">
     <a href=""><strong>Shangwei Guo</strong></a>
     ·
@@ -49,13 +49,10 @@ Recent advances in Semantic Scene Completion (SSC) for autonomous driving unders
 # Citation
 If our work is helpful to you, please consider citing us by using the following BibTeX entry:
 ```
-@misc{guo2025eventaidedsemanticscenecompletion,
+@article{guo2025evssc,
       title={Event-aided Semantic Scene Completion}, 
       author={Shangwei Guo and Hao Shi and Song Wang and Xiaoting Yin and Kailun Yang and Kaiwei Wang},
-      year={2025},
-      eprint={2502.02334},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2502.02334}, 
+      journal={arXiv preprint arXiv:2502.02334},
+      year={2025}
 }
 ```
