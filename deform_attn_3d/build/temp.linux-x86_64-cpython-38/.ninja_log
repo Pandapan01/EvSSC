@@ -1,0 +1,4 @@
+# ninja log v5
+0	43242	1724917966251714761	/mnt1/gsw/voxformer/deform_attn_3d/build/temp.linux-x86_64-cpython-38/csrc/ms_deform_attn_cuda.o	74eaed0ff64062d8
+4	46904	1724938367924791837	/mnt1/gsw/voxformer/deform_attn_3d/build/temp.linux-x86_64-cpython-38/csrc/ms_deform_attn_cuda.o	337808efb5519b38
+0	41863	1724985145047406253	/mnt1/gsw/voxformer/deform_attn_3d/build/temp.linux-x86_64-cpython-38/csrc/ms_deform_attn_cuda.o	95e9a3f1e8c2440b
