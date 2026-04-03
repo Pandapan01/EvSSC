@@ -114,10 +114,10 @@ If you use these resources in your research, please consider citing them using t
 If our work is helpful to you, please consider citing us using the following BibTeX entry:
 
 ```bibtex
-@article{guo2025evssc,
+@inproceedings{guo2026evssc,
       title={Event-aided Semantic Scene Completion}, 
       author={Shangwei Guo and Hao Shi and Song Wang and Xiaoting Yin and Kailun Yang and Kaiwei Wang},
-      journal={arXiv preprint arXiv:2502.02334},
-      year={2025}
+      booktitle={2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+      year={2026}
 }
 ```
