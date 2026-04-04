@@ -1,7 +1,7 @@
 <p align="center">
 
   <h1 align="center">EvSSC: Event-aided Semantic Scene Completion</h1>
-  <h3 align="center">ICASSP 2026</h3>
+  <h3 align="center">IEEE ICASSP 2026</h3>
   <p align="center">
     <a href=""><strong>Shangwei Guo</strong></a>
     ·
