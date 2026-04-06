@@ -62,7 +62,7 @@ We provide a bash script that sets up the complete environment including conda, 
 Train EvSSC with with 4 GPUs
 
    ```
-./tools/dist_train.sh ./projects/configs/voxformer/voxformer_mm-S_3D_event_ELM.py.py 4
+./tools/dist_train.sh ./projects/configs/voxformer/voxformer_mm-S_3D_event_ELM.py 4
    ```
 
 ## ⭕️TODO
