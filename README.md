@@ -32,10 +32,12 @@
   </div>
 
 
+---
 ## 📺Qualitative Results
 ![image](https://github.com/Pandapan01/EvSSC/blob/main/SemanticKITTIC.gif)  
 https://www.youtube.com/watch?v=C_8RtiH_HO0
 
+---
 ## 🔨Installation (One‑click script)
 
 We provide a bash script that sets up the complete environment including conda, PyTorch, mmcv‑full, mmdetection3d, and the deformable attention operators.
@@ -52,25 +54,28 @@ We provide a bash script that sets up the complete environment including conda, 
    chmod +x install_env.sh
    ./install_env.sh
    ``` 
+
+---
 ## ⏬Downloads
 
 📥 **SemanticKITTI-E** – [Download](https://pan.baidu.com/s/1zKM5gKwoZo2lvuM6DN6qlg?pwd=1234)
 
 📥 **DSEC-SSC** – [Download](https://pan.baidu.com/s/14ocybsRbkKDlLZg7jdDGtg?pwd=A93h)
 
+---
 ## 💻Train
 Train EvSSC with with 4 GPUs
 
    ```
 ./tools/dist_train.sh ./projects/configs/voxformer/voxformer_mm-S_3D_event_ELM.py 4
    ```
-
+---
 ## ⭕️TODO
 
 - [x] Release the code.
 - [x] Release the [arXiv preprint](https://arxiv.org/pdf/2502.02334).
 - [x] Release datasets.
-
+---
 ## ☺️Acknowledgments
 
 We thank the authors of the following open-source projects and datasets for their valuable contributions:
@@ -110,6 +115,7 @@ If you use these resources in your research, please consider citing them using t
       year={2019}
 }
 ```
+---
 ## 😄Citation
 
 If our work is helpful to you, please consider citing us using the following BibTeX entry:
